@@ -1,4 +1,4 @@
-# login
+# MedicSyncApp
 
 A new Flutter project.
 
